@@ -1,16 +1,51 @@
-## Hi there 👋
+# Vlad Zoff
 
-<!--
-**vladzdev/vladzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building SaaS infrastructure and developer
+tools for AI-assisted development.
 
-Here are some ideas to get you started:
+## Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Codapult
+Production-ready Next.js SaaS foundation built for modern
+SaaS products and AI-assisted development.
+
+https://codapult.dev
+
+### Codapult Guard
+Open-source, local-first architecture guard for JavaScript
+and TypeScript projects.
+
+- deterministic project discovery
+- architecture memory
+- project-specific policy
+- changed-file verification
+- impact analysis
+- MCP for AI coding agents
+
+https://github.com/codapult/codapult-guard
+
+### Codapult CLI
+Open-source CLI and MCP server for Codapult projects.
+
+- project setup and updates
+- plugins
+- database
+- environment
+- deployment
+- code generation
+- AI-agent tooling
+
+https://github.com/codapult/codapult-cli
+
+## Writing
+
+I write about:
+
+- AI-assisted software development
+- SaaS architecture
+- Next.js
+- TypeScript
+- MCP
+- developer tooling
+
+https://codapult.dev/blog
